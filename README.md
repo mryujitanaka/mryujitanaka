@@ -1,4 +1,4 @@
-### Hi, there! My name is Yuji Tanaka! I'm a Web Developer 🖖🤓
+### Hi! My name is Yuji Tanaka! I'm a Web Developer 🖖🤓
 
 - 🔭 I’m currently working with Freelance WordPress + Elementor + WooCommerce Development
 - 🌱 I’m currently learning: HTML, CSS, JavaScript and PHP
