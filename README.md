@@ -1,6 +1,6 @@
 ### Hi! My name is Yuji Tanaka! I'm a Web Developer 🖖🤓
 
-- ⚒️ I’m currently working as a: *Web Developer*
+- ⚒️ I’m currently working as a: *Freelance Front-end Web Developer*
 - 🌱 I’m currently learning: *HTML, CSS and JavaScript*
 - 🔭 I’m looking to: *become a Full-stack Web Developer*
 - 😊 I’m looking for: *help to become a more qualified professional developer*
