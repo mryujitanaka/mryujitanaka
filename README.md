@@ -3,7 +3,7 @@
 
 ## 🎎 Who am I
 
-With 2+ years of experience in Web Development, I have created over 1,000 super responsive, lightweight, modern, minimalistic, SEO-ready, secure, and ergonomic business projects. I have worked with various types of industries for entrepreneurs, small to mid-size companies, and individuals from America, Canada, Europe, Africa, and Australia who want to bring their ideas to life.
+Graduated in Bachelor of Information Systems, with 2+ years of experience in Web Development, I have created over 1,000 super responsive, lightweight, modern, minimalistic, SEO-ready, secure, and ergonomic business projects. I have worked with various types of industries for entrepreneurs, small to mid-size companies, and individuals from America, Canada, Europe, Africa, and Australia who want to bring their ideas to life.
 
 ## 🥋 Expertise
 
