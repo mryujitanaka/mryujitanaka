@@ -1,7 +1,15 @@
 <h1 align="center">Hi 🖖🤓, I'm Yuji Tanaka</h1>
 <h2 align="center">A resourceful, dedicated, creative, and passionate Web Developer based in Brazil</h2>
 
+## 🎎 Who am I
+
 With 2+ years of experience in Web Development, I have created over 1,000 super responsive, lightweight, modern, minimalistic, SEO-ready, secure, and ergonomic business projects. I have worked with various types of industries for entrepreneurs, small to mid-size companies, and individuals from America, Canada, Europe, Africa, and Australia who want to bring their ideas to life.
+
+## 🥋 Expertise
+
+Coming soon...
+
+## 🏮 In summary
 
 - 🔭 I’m currently working on [Condomínio Dahlia](https://condominiodahlia.com.br/)
 
