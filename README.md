@@ -3,8 +3,6 @@
 
 With 2+ years of experience in Web Development, I have created over 1,000 super responsive, lightweight, modern, minimalistic, SEO-ready, secure, and ergonomic business projects. I have worked with various types of industries for entrepreneurs, small to mid-size companies, and individuals from America, Canada, Europe, Africa, and Australia who want to bring their ideas to life.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mryujitanaka" alt="mryujitanaka" /></a> </p>
-
 - 🔭 I’m currently working on [Condomínio Dahlia](https://condominiodahlia.com.br/)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript & NodeJS**
@@ -35,3 +33,5 @@ With 2+ years of experience in Web Development, I have created over 1,000 super 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mryujitanaka&show_icons=true&locale=en" alt="mryujitanaka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mryujitanaka&" alt="mryujitanaka" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mryujitanaka" alt="mryujitanaka" /></a> </p>
