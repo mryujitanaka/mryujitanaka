@@ -5,7 +5,7 @@ With 2+ years of experience in Web Development, I have created over 1,000 super 
 
 - 🔭 I’m currently working on [Condomínio Dahlia](https://condominiodahlia.com.br/)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript & NodeJS**
+- 🌱 I'm constantly learning about **HTML, CSS, JavaScript & NodeJS**
 
 - 🤝 I’m looking for help with [Ubuntu Post Install Script](https://github.com/mryujitanaka/Ubuntu-Post-Install-Script)
 
