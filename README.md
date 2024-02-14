@@ -32,3 +32,5 @@ Coming soon...
 
 ## 🎏 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mryujitanaka/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/mryujitanaka) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@mryujitanaka)
+
+ > "The more I study, the more I feel that my mind is insatiable" — Ada Lovelace
