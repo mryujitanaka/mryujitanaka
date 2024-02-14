@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖🤓, I'm Yuji Tanaka</h1>
-<h3 align="center">A resourceful, dedicated, creative, and passionate Web Developer based in Brazil</h3>
+<h2 align="center">A resourceful, dedicated, creative, and passionate Web Developer based in Brazil</h2>
 
 With 2+ years of experience in Web Development, I have created over 1,000 super responsive, lightweight, modern, minimalistic, SEO-ready, secure, and ergonomic business projects. I have worked with various types of industries for entrepreneurs, small to mid-size companies, and individuals from America, Canada, Europe, Africa, and Australia who want to bring their ideas to life.
 
