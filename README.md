@@ -15,17 +15,15 @@ My experience is vast and without borders. I have delivered/been part of the del
 
 - 🌱 I'm constantly learning about **HTML, CSS, JavaScript & NodeJS**
 
-- 🤝 I’m looking for help with [Ubuntu Post Install Script](https://github.com/mryujitanaka/Ubuntu-Post-Install-Script)
-
 - 👨‍💻 All of my projects are available at [https://mryujitanaka.com/](https://mryujitanaka.com/)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **https://mryujitanaka.com/#contact**
+- 📫 How to reach me: **https://mryujitanaka.com/#contact**
 
-- 📄 Know about my experiences [https://mryujitanaka.com/](https://mryujitanaka.com/)
+- 📄 Know about my experiences: [https://mryujitanaka.com/](https://mryujitanaka.com/)
 
-- ⚡ Fun fact **Sometimes I forget I'm a father**
+- ⚡ Fun fact: **Sometimes I forget I'm a father**
 
 ## 🏯 Tech Stack
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/) [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/) [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/) [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
