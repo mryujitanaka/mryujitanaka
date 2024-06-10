@@ -3,11 +3,11 @@
 
 ## 🎎 Who am I
 
-Graduated in Bachelor of Information Systems, with 2+ years of experience in Web Development, I have created over 1,000 super responsive, lightweight, modern, minimalistic, SEO-ready, secure, and ergonomic business projects. I have worked with various types of industries for entrepreneurs, small to mid-size companies, and individuals from America, Canada, Europe, Africa, and Australia who want to bring their ideas to life.
+I have been an expert in Technology for 10 years. My specialty is Web Development for small/medium-sized companies from any branch of industry, where I have been working in this field for 2+ years. 
 
 ## 🥋 Expertise
 
-Coming soon...
+My experience is vast and without borders. I have delivered/been part of the delivery of 1,000+ projects for clients globally. In short, I provide services related to the Development of Websites and Online Systems using HTML, CSS, JavaScript, PHP, WordPress, Gutenberg, Elementor, Divi, WooCommerce, MySQL, MariaDB, among other technologies. My main focus is to deliver a professional responsive website, with high performance, great UI/UX, minimalist design, and a high customer conversion rate through Google.
 
 ## 🏮 In summary
 
