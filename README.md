@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖🤓, I'm Yuji Tanaka</h1>
-<h2 align="center">A resourceful, dedicated, creative, and passionate Web Developer based in Brazil</h2>
+<h2 align="center">a Lifelong Learner & Creative Web Developer based in Brazil</h2>
 
 ## 🎎 Who am I
 
