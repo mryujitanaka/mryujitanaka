@@ -21,8 +21,6 @@ My experience is vast and without borders. I have delivered/been part of the del
 
 - 📫 How to reach me: https://mryujitanaka.com/#contact
 
-- 📄 Know about my experiences: [https://mryujitanaka.com/](https://mryujitanaka.com/)
-
 - ⚡ Fun fact: **Sometimes I forget I'm a father**
 
 ## 🏯 Tech Stack
